@@ -1,5 +1,7 @@
 # DI Container 🗄️
 
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/yoeden/dart_di_container/dart.yml)
+
 DI Container is a lightweight DI library inspired by .NET `Service Collection` and `Service Provider`.
 
 ## Features

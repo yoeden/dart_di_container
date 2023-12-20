@@ -1,0 +1,1 @@
+enum ServiceLifetime { singleton, transient }

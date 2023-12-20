@@ -1,9 +1,9 @@
 import 'package:benchmark_harness/benchmark_harness.dart';
+import 'package:di_container/services.dart';
 import 'package:get_it/get_it.dart';
 import 'package:injector/injector.dart';
 import 'package:ioc_container/ioc_container.dart';
 import 'package:kiwi/kiwi.dart';
-import 'package:services/services.dart';
 
 var kiwi = KiwiContainer();
 late ServiceProvider services;

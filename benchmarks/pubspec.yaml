@@ -13,7 +13,7 @@ dependencies:
   get_it: ^7.6.4
   injector: ^3.0.0
   ioc_container: ^1.0.9
-  services:
+  di_container:
     path: ../
 
 dev_dependencies:

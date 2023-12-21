@@ -1,10 +1,10 @@
-import 'package:di_container/services.dart';
+import 'package:di_container/di_container.dart';
 
 import 'base.dart';
 
 void main(List<String> args) {
   final services = ServicesCollection() //
-      .add((_) => ServiceA())
+      .addSingleton((_) => ServiceA())
       .build();
 
   final service = services.getOf<ServiceA>();

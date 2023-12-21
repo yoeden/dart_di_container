@@ -1,4 +1,4 @@
-import 'package:di_container/services.dart';
+import 'package:di_container/di_container.dart';
 
 /// Extension methods for the [ServiceProvider] class.
 extension ServiceProviderExt on ServiceProvider {

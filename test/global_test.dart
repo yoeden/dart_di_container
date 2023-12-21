@@ -1,4 +1,4 @@
-import 'package:di_container/services.dart';
+import 'package:di_container/di_container.dart';
 import 'package:test/test.dart';
 
 void main() {

@@ -1,4 +1,4 @@
-import 'package:di_container/di_container.dart';
+import 'package:dinjection/dinjection.dart';
 
 class ServiceProviderImpl extends ServiceProvider {
   final Map<Type, Object> _singletonInstances = {};

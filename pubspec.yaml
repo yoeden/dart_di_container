@@ -1,7 +1,7 @@
-name: di_container
-description: DI Container is a lightweight DI library inspired by .NET Service Collection
+name: dinjection
+description: DInjection is a lightweight DI library inspired by .NET Service Collection
 version: 0.0.1
-repository: https://github.com/yoeden/flutter_di_container
+repository: https://github.com/yoeden/dinjection
 
 environment:
   sdk: ^3.1.0

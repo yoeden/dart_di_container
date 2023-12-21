@@ -1,4 +1,4 @@
-import 'package:di_container/di_container.dart';
+import 'package:dinjection/dinjection.dart';
 import 'package:test/test.dart';
 
 import 'descriptor_test.dart';

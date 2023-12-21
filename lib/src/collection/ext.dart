@@ -1,5 +1,5 @@
-import 'package:di_container/di_container.dart';
-import 'package:di_container/src/provider/impl.dart';
+import 'package:dinjection/dinjection.dart';
+import 'package:dinjection/src/provider/impl.dart';
 
 class ServiceImplements<TService> {
   final ServicesCollection _collection;

@@ -1,4 +1,4 @@
-import 'package:di_container/di_container.dart';
+import 'package:dinjection/dinjection.dart';
 
 // Private variable to hold the service provider instance.
 ServiceProvider? _gServices;

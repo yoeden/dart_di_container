@@ -1,5 +1,5 @@
 // import 'package:benchmark_harness/benchmark_harness.dart';
-// import 'package:di_container/services.dart';
+// import 'package:dinjection/dinjection.dart';
 // import 'package:get_it/get_it.dart';
 // import 'package:injector/injector.dart';
 // import 'package:ioc_container/ioc_container.dart';
